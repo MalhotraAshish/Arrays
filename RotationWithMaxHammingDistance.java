@@ -1,4 +1,4 @@
-package basicArrays;
+package Arrays_git;
 
 import java.util.Arrays;
 

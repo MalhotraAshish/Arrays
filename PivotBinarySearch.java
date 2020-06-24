@@ -1,4 +1,4 @@
-package basicArrays;
+package Arrays_git;
 
 public class PivotBinarySearch {
 // finding an element in a sorted and rotated array
